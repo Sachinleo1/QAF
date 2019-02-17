@@ -1,0 +1,9 @@
+logoutcheck.username.txt=xpath=//input[@name='userName']
+logoutcheck.password.txt=xpath=//input[@name='password']
+logoutcheck.signin.btn=xpath=//input[@name='login']
+
+logoutcheck.ffContinue.link=xpath=//input[@name='findFlights']
+logoutcheck.sfcontinue.link=xpath=//input[@name='reserveFlights']
+logoutcheck.sucurepayment.link=//input[@name='buyFlights']
+logoutcheck.conformation.img=xpath=//td/table/tbody/tr/td[2]/table/tbody/tr/td/img
+logoutcheck.logout.btn=xpath=//td[3]/a/img
