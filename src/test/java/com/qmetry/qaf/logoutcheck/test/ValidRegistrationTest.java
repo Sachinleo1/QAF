@@ -11,7 +11,6 @@ public class ValidRegistrationTest extends WebDriverTestCase {
 	@Test
 	public void registration() throws InterruptedException {
 		ValidRegistrationPage reg=new ValidRegistrationPage();
-		Thread.sleep(3000);
 		reg.getReg_link().click();
 		//reg.fill_data();
 	}
